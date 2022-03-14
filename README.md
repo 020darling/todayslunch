@@ -22,7 +22,7 @@
 ![IMAGE](https://github.com/020darling/todayslunch/blob/main/IMG/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-03-14%20163312.png)
 
 
-下载地址:https://github.com/020darling/todayslunch/tree/Version
+下载地址:https://github.com/020darling/todayslunch/releases
 
 
 使用方法:
